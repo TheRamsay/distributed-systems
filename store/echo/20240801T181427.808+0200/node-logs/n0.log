@@ -1,0 +1,1 @@
+HOTOVO ODESLANO "{\n  \"src\": \"n0\",\n  \"dest\": \"c0\",\n  \"body\": {\n    \"type\": \"init_ok\",\n    \"msg_id\": 2,\n    \"in_reply_to\": 1\n  }\n}"

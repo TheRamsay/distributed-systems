@@ -1,0 +1,42 @@
+{:index 0, :time 7212667, :type :info, :process :nemesis, :f :start-partition, :value :minority-third}
+{:index 1, :time 8335601, :type :invoke, :process 1, :f :generate, :value nil}
+{:index 2, :time 9719535, :type :invoke, :process 2, :f :generate, :value nil}
+{:index 3, :time 10167438, :type :info, :process :nemesis, :f :start-partition, :value [:isolated {"n2" #{}, "n1" #{}, "n0" #{}}]}
+{:index 4, :time 11047080, :type :invoke, :process 0, :f :generate, :value nil}
+{:index 5, :time 2850902469, :type :info, :process :nemesis, :f :stop-partition, :value nil}
+{:index 6, :time 2851483979, :type :info, :process :nemesis, :f :stop-partition, :value :network-healed}
+{:index 7, :time 5013114505, :type :info, :process 2, :f :generate, :value nil, :error :net-timeout}
+{:index 8, :time 5013423748, :type :info, :process 1, :f :generate, :value nil, :error :net-timeout}
+{:index 9, :time 5013518568, :type :info, :process 0, :f :generate, :value nil, :error :net-timeout}
+{:index 10, :time 5013587154, :type :invoke, :process 4, :f :generate, :value nil}
+{:index 11, :time 5014453428, :type :invoke, :process 5, :f :generate, :value nil}
+{:index 12, :time 5015643919, :type :invoke, :process 3, :f :generate, :value nil}
+{:index 13, :time 10015339475, :type :info, :process 4, :f :generate, :value nil, :error :net-timeout}
+{:index 14, :time 10015592242, :type :invoke, :process 7, :f :generate, :value nil}
+{:index 15, :time 10016252540, :type :info, :process 5, :f :generate, :value nil, :error :net-timeout}
+{:index 16, :time 10016398067, :type :info, :process 3, :f :generate, :value nil, :error :net-timeout}
+{:index 17, :time 10016471067, :type :invoke, :process 8, :f :generate, :value nil}
+{:index 18, :time 10018793004, :type :invoke, :process 6, :f :generate, :value nil}
+{:index 19, :time 15017338627, :type :info, :process 7, :f :generate, :value nil, :error :net-timeout}
+{:index 20, :time 15017511006, :type :invoke, :process 10, :f :generate, :value nil}
+{:index 21, :time 15017939997, :type :info, :process 8, :f :generate, :value nil, :error :net-timeout}
+{:index 22, :time 15018005213, :type :invoke, :process 11, :f :generate, :value nil}
+{:index 23, :time 15020350026, :type :info, :process 6, :f :generate, :value nil, :error :net-timeout}
+{:index 24, :time 15020444124, :type :invoke, :process 9, :f :generate, :value nil}
+{:index 25, :time 19768808623, :type :info, :process :nemesis, :f :start-partition, :value :majority}
+{:index 26, :time 19772288024, :type :info, :process :nemesis, :f :start-partition, :value [:isolated {"n0" #{"n2" "n1"}, "n2" #{"n0"}, "n1" #{"n0"}}]}
+{:index 27, :time 20018566987, :type :info, :process 10, :f :generate, :value nil, :error :net-timeout}
+{:index 28, :time 20018715750, :type :info, :process 11, :f :generate, :value nil, :error :net-timeout}
+{:index 29, :time 20018755454, :type :invoke, :process 13, :f :generate, :value nil}
+{:index 30, :time 20020180101, :type :invoke, :process 14, :f :generate, :value nil}
+{:index 31, :time 20020629504, :type :info, :process 9, :f :generate, :value nil, :error :net-timeout}
+{:index 32, :time 20020717539, :type :invoke, :process 12, :f :generate, :value nil}
+{:index 33, :time 25019948105, :type :info, :process 13, :f :generate, :value nil, :error :net-timeout}
+{:index 34, :time 25020225911, :type :invoke, :process 16, :f :generate, :value nil}
+{:index 35, :time 25021327221, :type :info, :process 12, :f :generate, :value nil, :error :net-timeout}
+{:index 36, :time 25021477922, :type :info, :process 14, :f :generate, :value nil, :error :net-timeout}
+{:index 37, :time 25021542247, :type :invoke, :process 15, :f :generate, :value nil}
+{:index 38, :time 25023290452, :type :invoke, :process 17, :f :generate, :value nil}
+{:index 39, :time 30022399157, :type :info, :process 16, :f :generate, :value nil, :error :net-timeout}
+{:index 40, :time 30023035546, :type :info, :process 15, :f :generate, :value nil, :error :net-timeout}
+{:index 41, :time 30024195390, :type :info, :process 17, :f :generate, :value nil, :error :net-timeout}
